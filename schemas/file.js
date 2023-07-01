@@ -1,6 +1,6 @@
 export default {
-    name: 'file',
-    title: 'File', 
+    name: 'notesFile',
+    title: 'NotesFile', 
     type: 'document',
     fields: [
         {
